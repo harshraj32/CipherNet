@@ -11,10 +11,11 @@ the above figure demonstrate the working of this project. The data flow of the p
 ![alt processing of image](https://github.com/harshraj32/CipherNet/blob/main/images/processing.png?raw=true)
 
 ## Architecture
-![alt arch](https://github.com/harshraj32/CipherNet/blob/main/images/architecture.png?raw=true)
+![alt arch](https://github.com/harshraj32/CipherNet/blob/main/images/architecture.jpg?raw=true)
 
 ## Output
 Accuracy Plot of Mnist Base Model vs Encrypted Model
+
 ![alt mnist output](https://github.com/harshraj32/CipherNet/blob/main/images/mnist_acc.png?raw=true)
 
 Accuracy Plot of FMnist Base Model vs Encrypted Model
