@@ -7,5 +7,6 @@ The Project introduces the concept of data hiding in distributed machine learnin
 ## Output
 
 ## Results
-Base Model Accuracy MNIST - 99.1% FMNIST - 89.03% \n
+Base Model Accuracy MNIST - 99.1% FMNIST - 89.03%
+
 Encryption Model	Accuracy MNIST - 98.2%	FMNIST - 88.11%
